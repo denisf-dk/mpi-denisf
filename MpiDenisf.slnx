@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/MarketplaceIntegration.Api/MarketplaceIntegration.Api.csproj" />
+  </Folder>
+</Solution>
